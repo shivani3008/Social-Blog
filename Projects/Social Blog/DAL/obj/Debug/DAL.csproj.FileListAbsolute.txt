@@ -11,3 +11,11 @@ C:\Users\ATUL\Documents\Visual Studio 2015\Projects\Social Blog\DAL\bin\Debug\My
 C:\Users\ATUL\Documents\Visual Studio 2015\Projects\Social Blog\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
 C:\Users\ATUL\Documents\Visual Studio 2015\Projects\Social Blog\DAL\obj\Debug\DAL.dll
 C:\Users\ATUL\Documents\Visual Studio 2015\Projects\Social Blog\DAL\obj\Debug\DAL.pdb
+E:\Projects\Repo\Social-Blog1\Projects\Social Blog\DAL\bin\Debug\DAL.dll
+E:\Projects\Repo\Social-Blog1\Projects\Social Blog\DAL\bin\Debug\DAL.pdb
+E:\Projects\Repo\Social-Blog1\Projects\Social Blog\DAL\bin\Debug\MySql.Data.xml
+E:\Projects\Repo\Social-Blog1\Projects\Social Blog\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+E:\Projects\Repo\Social-Blog1\Projects\Social Blog\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+E:\Projects\Repo\Social-Blog1\Projects\Social Blog\DAL\obj\Debug\DAL.csproj.CopyComplete
+E:\Projects\Repo\Social-Blog1\Projects\Social Blog\DAL\obj\Debug\DAL.dll
+E:\Projects\Repo\Social-Blog1\Projects\Social Blog\DAL\obj\Debug\DAL.pdb

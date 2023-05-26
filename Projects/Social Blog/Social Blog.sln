@@ -1,10 +1,10 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.23107.0
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Social Blog", "..\..\WebSites\Social Blog\", "{8D23715B-5AD9-4BE2-A35F-802C04AD6A1E}"
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Social Blog", "..\..\Websites\Social Blog\", "{8D23715B-5AD9-4BE2-A35F-802C04AD6A1E}"
 	ProjectSection(WebsiteProperties) = preProject
-		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5.2"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.8"
 		ProjectReferences = "{5cc8636b-ba69-4363-9d4f-fb3d31ff2cda}|BAL.dll;{C46BE629-388C-45BF-9B72-C7FB4D693125}|DAL.dll;"
 		Debug.AspNetCompiler.VirtualPath = "/localhost_37918"
 		Debug.AspNetCompiler.PhysicalPath = "..\..\WebSites\Social Blog\"

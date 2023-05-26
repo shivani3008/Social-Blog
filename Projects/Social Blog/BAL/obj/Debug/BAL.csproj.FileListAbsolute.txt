@@ -7,3 +7,14 @@ C:\Users\ATUL\Documents\Visual Studio 2015\Projects\Social Blog\BAL\bin\Debug\My
 C:\Users\ATUL\Documents\Visual Studio 2015\Projects\Social Blog\BAL\obj\Debug\BAL.csprojResolveAssemblyReference.cache
 C:\Users\ATUL\Documents\Visual Studio 2015\Projects\Social Blog\BAL\obj\Debug\BAL.dll
 C:\Users\ATUL\Documents\Visual Studio 2015\Projects\Social Blog\BAL\obj\Debug\BAL.pdb
+E:\Projects\Repo\Social-Blog1\Projects\Social Blog\BAL\bin\Debug\BAL.dll
+E:\Projects\Repo\Social-Blog1\Projects\Social Blog\BAL\bin\Debug\BAL.pdb
+E:\Projects\Repo\Social-Blog1\Projects\Social Blog\BAL\bin\Debug\DAL.dll
+E:\Projects\Repo\Social-Blog1\Projects\Social Blog\BAL\bin\Debug\MySql.Data.dll
+E:\Projects\Repo\Social-Blog1\Projects\Social Blog\BAL\bin\Debug\DAL.pdb
+E:\Projects\Repo\Social-Blog1\Projects\Social Blog\BAL\bin\Debug\MySql.Data.xml
+E:\Projects\Repo\Social-Blog1\Projects\Social Blog\BAL\obj\Debug\BAL.csproj.AssemblyReference.cache
+E:\Projects\Repo\Social-Blog1\Projects\Social Blog\BAL\obj\Debug\BAL.csproj.CoreCompileInputs.cache
+E:\Projects\Repo\Social-Blog1\Projects\Social Blog\BAL\obj\Debug\BAL.csproj.CopyComplete
+E:\Projects\Repo\Social-Blog1\Projects\Social Blog\BAL\obj\Debug\BAL.dll
+E:\Projects\Repo\Social-Blog1\Projects\Social Blog\BAL\obj\Debug\BAL.pdb
